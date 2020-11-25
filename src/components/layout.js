@@ -41,10 +41,6 @@ const Layout = ({ children }) => {
         >
           © {new Date().getFullYear()}, Built with
           {` `}
-          <a href="https://github.com/ipatate/gatsby-api-route-file-example">
-            Source code
-          </a>
-          <br />
           <a href="https://www.gatsbyjs.com">Gatsby</a>
         </footer>
       </div>
